@@ -1,4 +1,9 @@
-### Hi there 👋
+* 👋 Hi there! My name is Briareus Castillo
+* :gear: I'm studying Computer Engineering
+* :desktop_computer:	I'm looking to be a Software Engineer
+* 🌱 I’m currently learning Web Programming for CompE 561
+* 📫 How to reach me: briareuscas@gmail.com
+
 
 <!--
 **BriareusCastillo/BriareusCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
